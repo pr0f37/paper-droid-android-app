@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="D:/My Dropbox/Java/Workspace/signpost-core-1.2.1.2.jar" sourcepath="D:/My Dropbox/Java/Workspace/kaeppler-signpost-9885e36"/>
+	<classpathentry exported="true" kind="lib" path="D:/My Dropbox/Java/Workspace/signpost-jetty6-1.2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/My Dropbox/Java/Workspace/commons-codec-1.6/commons-codec-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/My Dropbox/Java/Workspace/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/My Dropbox/Java/Workspace/commons-codec-1.6/commons-codec-1.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/My Dropbox/Java/Workspace/commons-codec-1.6/commons-codec-1.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/My Dropbox/Java/Workspace/commons-codec-1.6/commons-codec-1.6-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/My Dropbox/Java/Workspace/signpost-commonshttp4-1.2.1.2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="D:/My Dropbox/Java/Workspace/gson-2.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/My Dropbox/Java/Workspace/gson-2.2.1-sources.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

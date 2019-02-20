@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/star_details_menu" 
+        android:enabled="true" 
+        android:titleCondensed="Star" 
+        android:title="Star article" 
+        android:checkable="true"
+        android:checked="false"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/menu_unstar"/>
+	<item android:id="@+id/archive_details_menu" 
+        android:enabled="true" 
+        android:titleCondensed="Archive" 
+        android:title="Archive article" 
+        android:checkable="true"
+        android:checked="false"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/menu_unarchive"/>
+	<item android:id="@+id/delete_details_menu" 
+        android:enabled="true" 
+        android:titleCondensed="Delete" 
+        android:title="Delete article"  
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/menu_delete"/>
+	<item android:id="@+id/fullscreen_details_menu" 
+        android:enabled="true" 
+        android:titleCondensed="Fullscreen" 
+        android:title="Fullscreen" 
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/menu_fullscreen"/>
+</menu>

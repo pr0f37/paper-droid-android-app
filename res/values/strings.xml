@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">This is PaperDroid Ui Activity responsible for drawing menu and it is under construction :)</string>
+    <string name="app_name">aPaper</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="OK_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="welcome_image_view">Application logo</string>
+    <string name="ifyouhave">(if You have one)</string>
+    <string name="log_button">Log me in!</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="synchronizing_preferences">Synchronizing preferences</string>
+    <string name="limit_preference_title">Limit</string>
+    
+    <string name="limit_preference_summary" >Number of articles synchronized in each folder</string><string name="limit_preference_dialog_title">Limit value:</string><string name="menu_preferences">Preferences</string>
+    <string name="online_preference_title">Work offline</string>
+    <string name="online_preference_summary">Should aPaper work offline?</string>
+    <string name="account_preferences">Account preferences</string>
+    <string name="username_preference_title">Username</string>
+    <string name="username_preference_summary">User account login</string>
+    <string name="username_preference_dialog_title">Please set your login:</string>
+    <string name="login_failed">Something went wrong. Please check your username/password or select offline mode.</string>
+    <string name="offline_button">Offline mode (no synchronization)</string>
+    <string name="menu_logout">Logout</string>
+    <string name="full_synchro_preference_title">Full synchronization</string>
+    <string name="full_synchro_preference_summary">aPaper will download entire articles in folders chosen below during synchronization</string>
+    <string name="archived_synchro_preference_title">Archived</string>
+    <string name="archived_synchro_preference_summary">aPaper will download entire articles placed in Archived folder (full synchronization option have to be checked also)</string>
+    <string name="favourites_synchro_preference_title">Favourites</string>
+    <string name="favourites_synchro_preference_summary">aPaper will download entire articles placed in Favourites folder (full synchronization option have to be checked also)</string>
+    <string name="unread_synchro_preference_title">Unread</string>
+    <string name="unread_synchro_preference_summary">aPaper will download entire articles placed in Unread folder (full synchronization option have to be checked also)</string>
+    
+    
+
+</resources>
